@@ -1,5 +1,9 @@
 ## How to use Mailpro in your application
 
+```bash
+npm install mailpro --save
+```
+
 ```javascript
 MailPro = require('mailpro')
 var mailPro = new MailPro({
