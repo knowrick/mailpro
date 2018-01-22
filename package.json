@@ -1,16 +1,16 @@
 {
-    "name": "mailpro",
-    "version": "1.0.0",
-    "description": "Sending email without the headache",
-    "main": "mailpro.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "Rick H",
-    "license": "MIT",
-    "dependencies": {
-        "mailgun-js": "~0.7.1",
-        "q": "~1.4.1",
-        "crypto": "0.0.3"
-    }
+  "name": "mailpro",
+  "version": "1.0.1",
+  "description": "Sending email without the headache",
+  "main": "mailpro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rick H",
+  "license": "MIT",
+  "dependencies": {
+    "mailgun-js": "~0.7.1",
+    "q": "~1.4.1",
+    "crypto": "0.0.3"
+  }
 }
