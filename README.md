@@ -7,8 +7,8 @@ npm install mailpro --save
 ```javascript
 MailPro = require('mailpro')
 var mailPro = new MailPro({
-  privateKey: "key-xxxxxxxxxxxxxxx",
-  publicKey: "pubkey-xxxxxxxxxxxxx",
+  private: "key-xxxxxxxxxxxxxxx",
+  public: "pubkey-xxxxxxxxxxxxx",
   domain: "domain.com",
   secret: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 });
